@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0458516e-c5af-4c74-a14f-506d2ec079ba" name="Default Changelist" comment="" />
+    <list default="true" id="0458516e-c5af-4c74-a14f-506d2ec079ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Sort/quickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/quickSort.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +72,7 @@
       <workItem from="1613799203349" duration="28000" />
       <workItem from="1613799301563" duration="405000" />
       <workItem from="1613799832147" duration="237000" />
-      <workItem from="1613800089484" duration="32000" />
+      <workItem from="1613800089484" duration="140000" />
     </task>
     <servers />
   </component>
