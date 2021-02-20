@@ -1,7 +1,7 @@
 package Sort;
 
 import java.util.*;
-
+//time complexity: nlogn  space:O(n)
 public class quickSort {
     public int[] quickSort(int[] array) {
         if (array == null || array.length <= 1) return array;
